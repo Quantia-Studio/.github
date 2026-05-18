@@ -21,6 +21,7 @@ Tworzymy projekty związane z:
 
 - Python
 - SQL
+- R
 - Pandas
 - NumPy
 - NLP
@@ -53,6 +54,7 @@ Quantia is a small analytics-focused initiative created by quantitative economic
 
 - Python
 - SQL
+- R
 - Pandas
 - NumPy
 - NLP
