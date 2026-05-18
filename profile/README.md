@@ -16,17 +16,6 @@ Quantia is a small analytics-focused initiative created by quantitative economic
 - Python & SQL solutions
 - Automation & reporting
 
-## Current projects
-
-### AI Asset Support
-AI-powered financial information and market monitoring system using Python, SQL and NLP methods.
-
-### Hybrid ML Market Forecasting
-Research-focused forecasting and portfolio analytics project combining machine learning and econometric methods.
-
-### Option Pricing & Risk Analytics
-Implementation of Black-Scholes, Greeks and Monte Carlo methods for financial instrument valuation.
-
 ## Technologies
 
 - Python
