@@ -1,3 +1,5 @@
+#ENGLISH VERSION BELOW
+
 # Quantia
 
 Quantia to inicjatywa skoncentrowana na analityce danych, analizie finansowej oraz rozwiązaniach opartych o sztuczną inteligencję i nowoczesne technologie.
