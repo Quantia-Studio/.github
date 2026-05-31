@@ -1,4 +1,4 @@
-# ENGLISH VERSION BELOW
+# English version below
 
 # Quantia
 
